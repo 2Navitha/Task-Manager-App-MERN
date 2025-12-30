@@ -124,17 +124,16 @@ Run the Application
 
 Backend:
 
-bash
+
 cd backend
 npm start
-# or for development
+or
 npm run dev
+
 Frontend:
 
-bash
 cd frontend
 npm start
-Open your browser and navigate to:
 
-text
+Open your browser and navigate to:
 http://localhost:3000
