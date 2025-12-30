@@ -87,46 +87,8 @@ ESLint - Code linting
 
 Prettier - Code formatting
 
-📁 Project Structure
-text
-task-manager-frontend/
-├── public/
-│   └── index.html
-├── src/
-│   ├── components/
-│   │   ├── TaskCard.jsx
-│   │   ├── TaskForm.jsx
-│   │   ├── FilterBar.jsx
-│   │   ├── StatsCard.jsx
-│   │   └── Modal.jsx
-│   ├── pages/
-│   │   └── Dashboard.jsx
-│   ├── hooks/
-│   │   └── useTasks.js
-│   ├── styles/
-│   │   └── app.css
-│   ├── utils/
-│   │   └── api.js
-│   └── App.js
-├── package.json
-└── README.md
-
-task-manager-backend/
-├── models/
-│   └── Task.js
-├── routes/
-│   └── tasks.js
-├── controllers/
-│   └── taskController.js
-├── middleware/
-│   ├── auth.js
-│   └── errorHandler.js
-├── config/
-│   └── db.js
-├── .env
-├── package.json
-└── server.js
 🚀 Getting Started
+
 Prerequisites
 Node.js (v14 or higher)
 
